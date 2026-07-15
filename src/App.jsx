@@ -1,8 +1,11 @@
-
+import "./styles/global.css";
+ import Hero from "./components/Hero"
 
 function App() {
   return (
-    <div>App</div>
+    <div>
+      <Hero />
+    </div>
   )
 }
 
