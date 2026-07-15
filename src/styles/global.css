@@ -1,0 +1,26 @@
+:root{
+
+    --bg:#090909;
+    --surface:#141414;
+
+    --gold:#C8A14A;
+    --gold-light:#DFC47A;
+
+    --text:#F6F5F2;
+    --muted:#8C8C8C;
+
+    --border:#2A2A2A;
+
+    --radius:20px;
+
+    --transition:.4s ease;
+}
+body{
+
+    background:var(--bg);
+
+    color:var(--text);
+
+    font-family:"Inter",sans-serif;
+
+}
